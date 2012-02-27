@@ -1,6 +1,6 @@
-Building a a quick startup environment for CodeIginter projects.
+A quick startup environment for CodeIginter projects.
 
-It is mostly how I setup majority of CodeIgniter projects. However, it may not be the best setup.
+It is mostly how I setup majority of CodeIgniter projects. However, it may not be the best setup. You may want to make sure that it fits your needs.
 
 Here is a quick overview:
 
@@ -11,3 +11,15 @@ Here is a quick overview:
 * CSS framewrok (coming soon)
 * .htaccess mod to hide index.php file
 * minimalist layout.php view file to quickly start coding
+
+You can see what it looks like right out of box here: http://amerkhalid.com/CodeIgniterJumpStart/
+
+To get started:
+1. Upload all files to a webserver
+2. Create a database
+3. Update application/config/database.php with correct settings
+4. Run sql scripts under sql folder
+5. Update .htaccesss file if your CodeIgniter Installation is not in the root folder
+6. Update encrypt key in application/config/config.php file
+7. Start working on your application :)
+
