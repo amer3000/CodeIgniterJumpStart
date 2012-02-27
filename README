@@ -1,0 +1,13 @@
+Building a a quick startup environment for CodeIginter projects.
+
+It is mostly how I setup majority of CodeIgniter projects. However, it may not be the best setup.
+
+Here is a quick overview:
+
+* CodeIgniter 2.1
+* Datamapper ORM 1.8.2
+* TankAuth 1.0.9
+* JQuery 1.7.1
+* CSS framewrok (coming soon)
+* .htaccess mod to hide index.php file
+* minimalist layout.php view file to quickly start coding
