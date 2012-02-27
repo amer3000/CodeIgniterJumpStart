@@ -8,7 +8,7 @@ Here is a quick overview:
 * Datamapper ORM 1.8.2
 * TankAuth 1.0.9
 * JQuery 1.7.1
-* CSS framewrok (coming soon)
+* Gridless CSS3 framewrok http://thatcoolguy.github.com/gridless-boilerplate/
 * .htaccess mod to hide index.php file
 * minimalist layout.php view file to quickly start coding
 
