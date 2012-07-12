@@ -55,6 +55,11 @@ CREATE TABLE IF NOT EXISTS `user_profiles` (
   `user_id` int(11) NOT NULL,
   `country` varchar(20) COLLATE utf8_bin DEFAULT NULL,
   `website` varchar(255) COLLATE utf8_bin DEFAULT NULL,
+  `facebook_id` varchar(255) COLLATE utf8_bin DEFAULT NULL,
+  `twitter_id` varchar(255) COLLATE utf8_bin DEFAULT NULL,
+  `gfc_id` varchar(255) COLLATE utf8_bin DEFAULT NULL,
+  `google_open_id` varchar(255) COLLATE utf8_bin DEFAULT NULL,
+  `yahoo_open_id` varchar(255) COLLATE utf8_bin DEFAULT NULL,
   PRIMARY KEY (`id`)
 ) ENGINE=InnoDB  DEFAULT CHARSET=utf8 COLLATE=utf8_bin;
 

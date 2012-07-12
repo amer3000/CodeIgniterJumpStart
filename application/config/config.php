@@ -358,5 +358,47 @@ $config['rewrite_short_tags'] = FALSE;
 $config['proxy_ips'] = '';
 
 
+
+/*
+|--------------------------------------------------------------------
+------
+| Facebook App ID
+|
+| If you want to integrate with Facebook Connect authentication, put 
+your
+| Facebook App ID below.
+|--------------------------------------------------------------------
+------
+*/
+$config['facebook_app_id'] = '';
+$config['facebook_app_key'] = '';
+$config['facebook_app_secret'] = '';
+/*
+|--------------------------------------------------------------------
+------
+| Twitter App ID
+|
+| If you want to integrate with Twitter oAuth authentication, put you
+r
+| Twitter app details below.
+|--------------------------------------------------------------------
+------
+*/
+$config['tweet_consumer_key'] = '';
+$config['tweet_consumer_secret'] = '';
+
+/*
+|--------------------------------------------------------------------
+------
+| Google Friend Connect App ID
+|
+| If you want to integrate with Twitter oAuth authentication, put you
+r
+| Twitter app details below.
+|--------------------------------------------------------------------
+------
+*/
+$config['google_app_id'] = '';
+
 /* End of file config.php */
 /* Location: ./application/config/config.php */
