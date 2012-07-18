@@ -7,6 +7,7 @@ Here is a quick overview:
 * CodeIgniter 2.1
 * Datamapper ORM 1.8.2
 * TankAuth 1.0.9
+* XTA2 for 3rd party login
 * JQuery 1.7.1
 * Gridless CSS3 framewrok http://thatcoolguy.github.com/gridless-boilerplate/
 * .htaccess mod to hide index.php file
