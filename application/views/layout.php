@@ -33,6 +33,7 @@
 		</header>
 		<p>
 			Be sure to change your encryption key, enable Database access, and create basic tables.
+			Also remove "CodeIgniterJumpStart/" from .htaccess file.
 
 		</p>
 		<h3>SQL for Tables</h3>
